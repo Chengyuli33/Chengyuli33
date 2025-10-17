@@ -4,44 +4,29 @@
 I'm a full-stack software engineer combining a background in marketing 
 analytics with a Master's in Computer Science at the University of Pennsylvania. The journey has given me a rare mix of user insight, data architecture, and technical precision.
 
-Since graduating, I've built full-stack applications that integrate search, information retrieval, and LLM-powered features. My work spans the entire stack: from designing databases and data pipelines to building APIs and frontend interfaces.
+Since graduating, I've built full-stack applications that integrate search, information retrieval, and LLM-powered features. My work spans the entire stack: from designing databases and data pipelines to building APIs and frontend development.
 
 Currently working on an AI agent-driven NPC simulation platform, combining game design and generative AI, creating dynamic, human-like character interactions. 👉 [About this Project](caerulean.md)
-
-
-## ⚙️ Core Skills
-
-**Languages**  
-Python · JavaScript · TypeScript · Java · SQL · Bash
-
-**Web & APIs**  
-React · Node.js · FastAPI · HTML/CSS · Express · Neo4j · RESTful APIs
-
-**Data & ML**  
-PostgreSQL · pgvector · Scikit-learn · FAISS · Pandas · Ollama (LLM) · RAG pipelines · NLP · MCP
-
-**Tools**  
-Git · AWS RDS · Docker · CI/CD · GitHub Actions · Vim
-
-
-## 🌱 Let’s Connect
-📍 Based in **New York, NY**  
-
-💼 Reach me on [LinkedIn](https://www.linkedin.com/in/chengyu-li-bio/)  
-
-📫 Open To: Software Engineer / Full-Stack Developer / Human-Centered AI Products  
-
-👩🏻‍💻 Explore my featuring projects on [GitHub](https://github.com/Chengyuli33/reading-bee):  
-> Reading Bee: An LLM-driven book-recommendation platform integrating RAG pipelines, FAISS vector search, and semantic embeddings on a FastAPI + PostgreSQL backend.
-
-
 
 ### Let's build something together!
 
 *“Building AI systems that connect with people.” ✨*  
 
 
+## ⚙️ Current Skills
 
+- **Languages**: Python · JavaScript · TypeScript · Java · SQL · Bash  
+- **Web & APIs**: FastAPI · React · Node.js · Express · HTML/CSS · RESTful APIs · Neo4j  
+- **Data & ML**: PostgreSQL · pgvector · Scikit-learn · FAISS · Pandas · NLP · Feature Engineering · Data Visualization  
+- **DevOps & Cloud**: Docker · Kubernetes (K3s) · ArgoCD · Nginx · AWS RDS · CI/CD · GitHub Actions · GHCR · Cloud Deployment  
+- **Tools & Workflow**: Git · Vim · VS Code · Postman · Jupyter Notebook · Figma · Linux Shell · DataGrip  
+- **AI & Systems**: LLM Ollama · Semantic Search · Vector Databases · Retrieval-Augmented Generation (RAG) · Model Context Protocol (MCP)  
+
+
+## 🌱 Let’s Connect
+📍 Based in **New York, NY**  
+💼 Reach me on [LinkedIn](https://www.linkedin.com/in/chengyu-li-bio/)  
+📫 Open To: Software Engineer / Full-Stack Developer / Human-Centered AI Products  
 
 
 
