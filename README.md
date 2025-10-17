@@ -18,9 +18,9 @@ Currently working on an AI agent-driven NPC simulation platform, combining game 
 - **Languages**: Python · JavaScript · TypeScript · Java · SQL · Bash  
 - **Web & APIs**: FastAPI · React · Node.js · Express · HTML/CSS · RESTful APIs · Neo4j  
 - **Data & ML**: PostgreSQL · pgvector · Scikit-learn · FAISS · Pandas · NLP · Feature Engineering · Data Visualization  
-- **DevOps & Cloud**: Docker · Kubernetes (K3s) · ArgoCD · Nginx · AWS RDS · CI/CD · GitHub Actions · GHCR · Cloud Deployment  
+- **DevOps & Cloud**: Docker · Kubernetes (K3s) · ArgoCD · Nginx · AWS RDS · CI/CD · GitHub Actions
 - **Tools & Workflow**: Git · Vim · VS Code · Postman · Jupyter Notebook · Figma · Linux Shell · DataGrip  
-- **AI & Systems**: LLM Ollama · Semantic Search · Vector Databases · Retrieval-Augmented Generation (RAG) · Model Context Protocol (MCP)  
+- **AI & Systems**: Ollama · Semantic Search · Vector DB · Retrieval-Augmented Generation (RAG) · Model Context Protocol (MCP)  
 
 
 ## 🌱 Let’s Connect
