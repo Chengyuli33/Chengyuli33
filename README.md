@@ -6,7 +6,7 @@ analytics with a Master's in Computer Science at the University of Pennsylvania.
 
 Since graduating, I've built full-stack applications that integrate search, information retrieval, and LLM-powered features. My work spans the entire stack: from designing databases and data pipelines to building APIs and frontend development.
 
-Previously built ✨[Reading Bee](https://github.com/Chengyuli33/reading-bee)✨, an AI-driven book-recommendation platform integrating RAG pipelines, FAISS vector search, and semantic embeddings on a FastAPI + PostgreSQL backend.
+Previously built ✨[Reading Bee](https://github.com/Chengyuli33/reading-bee), an AI-driven book-recommendation platform integrating RAG pipelines, FAISS vector search, and semantic embeddings on a FastAPI + PostgreSQL backend.
 
 Currently working on an AI agent-driven NPC simulation platform, combining game design and generative AI, creating dynamic, human-like character interactions. 👉 [About this Project](caerulean.md)
 
@@ -20,7 +20,7 @@ Currently working on an AI agent-driven NPC simulation platform, combining game 
 - **AI & Systems**: Ollama · Semantic Search · Vector DB · Retrieval-Augmented Generation (RAG) · Model Context Protocol (MCP)  
 
 ## 🌱 Let’s Connect
-- 📍 Based in **New York, NY**
+- 📍 Based in New York, NY
 - 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/chengyu-li-bio/) 
 
 *“Building AI systems that connect with people.” ✨*  

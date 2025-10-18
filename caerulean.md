@@ -1,6 +1,8 @@
 
 ## 🔭 My Current Building
 
+> This is a collaborative & private repository developed during my internship. Demo and code are available upon request.
+
 ### About the Project
 
 I’m currently contributing to the development of *Caerulean-AI*, an enterprise-grade NPC simulation platform. This collaborative project bridges **AI agents** with **game design**, exploring ways to build NPC agents for games: natural dialogue, emotional reactions, and personalized visual traits like avatars and behaviors. 
@@ -29,5 +31,3 @@ During my internship, I contributed to:
 
 ### Technologies: 
 TypeScript, Node.js, Neo4j, Vite, Python, pgvector, Prisma, Stable Diffusion, Ollama, GitHub Actions, Kubernetes (K3s), ArgoCD, Docker, MinIO
-
-> This is a private repository developed during my internship. Demo and code are available upon request.
