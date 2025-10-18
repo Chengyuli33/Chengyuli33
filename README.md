@@ -6,8 +6,9 @@ analytics with a Master's in Computer Science at the University of Pennsylvania.
 
 Since graduating, I've built full-stack applications that integrate search, information retrieval, and LLM-powered features. My work spans the entire stack: from designing databases and data pipelines to building APIs and frontend development.
 
-Currently working on an AI agent-driven NPC simulation platform, combining game design and generative AI, creating dynamic, human-like character interactions. 👉 [About this Project](caerulean.md)
+Previously built [Reading Bee](https://github.com/Chengyuli33/reading-bee), an AI-driven book-recommendation platform integrating RAG pipelines, FAISS vector search, and semantic embeddings on a FastAPI + PostgreSQL backend.
 
+Currently working on an AI agent-driven NPC simulation platform, combining game design and generative AI, creating dynamic, human-like character interactions. 👉 [About this Project](caerulean.md)
 
 ## ⚙️ Current Skills
 
