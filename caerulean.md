@@ -19,7 +19,10 @@ Inspired by Stanford’s *Generative Agents*, *Caerulean-AI* seeks to build an *
 
 - **Deployment**: The system is automatically deployed with **Kubernetes** + **ArgoCD**, with GitHub Actions handling CI/CD pipelines and GHCR for Docker image publishing.
 
-![Caerulean-AI Architecture Diagram](./aigame.JPG)
+![Caerulean-AI game page](./aigame.JPG)
+![Caerulean-AI NPC relationship Diagram](./relationship.PNG)
+![Caerulean-AI main game page design](./gamepage.PNG)
+![Caerulean-AI auth page](./signup.PNG)
 ### Contribution Highlights
 
 During my internship, I contributed to:
