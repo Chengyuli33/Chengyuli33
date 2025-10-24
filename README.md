@@ -17,10 +17,10 @@ Currently working on an AI agent-driven NPC simulation platform, combining game 
 - **Data & ML**: PostgreSQL · pgvector · Scikit-learn · FAISS · Pandas · NLP · Feature Engineering · Data Visualization  
 - **DevOps & Cloud**: Docker · Kubernetes (K3s) · ArgoCD · Nginx · AWS RDS · CI/CD · GitHub Actions
 - **Tools & Workflow**: Git · Vim · VS Code · Postman · Jupyter Notebook · Figma · Linux Shell · DataGrip  
-- **AI & Systems**: Ollama · Semantic Search · Vector DB · Retrieval-Augmented Generation (RAG) · Model Context Protocol (MCP)  
+- **AI & Systems**: OpenAI · Claude · Ollama · Semantic Search · Vector DB · Retrieval-Augmented Generation (RAG) · Model Context Protocol (MCP)  
 
 ## 🌱 Let’s Connect
 - 📍 Based in New York, NY
 - 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/chengyu-li-bio/) 
 
-*“Building AI systems that connect with people.” ✨*  
+*✨ The world is your oyster, and the future is ours to design. ✨*  
